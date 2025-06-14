@@ -2,7 +2,6 @@ import { respond } from "./utils";
 
 export default {
   async fetch(request, env, ctx) {
-
     const assetResponse = await env.ASSETS.fetch(request);
 
     // Check if the asset was actually found

@@ -11,5 +11,3 @@ export function respond(message, code, { ...options } = {}) {
     }
   );
 }
-
-

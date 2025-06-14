@@ -23,6 +23,7 @@ package.json       # Project metadata and dependencies
 ## Usage
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/)
 - [Cloudflare Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/)
 
@@ -49,6 +50,7 @@ Deploy to Cloudflare Workers.
 ## Configuration
 
 Configuration is managed via `wrangler.toml`:
+
 - `main`: Entry point for the worker (`index.js`).
 - `assets.directory`: Path to static assets (`public/`).
 - `assets.binding`: Name of the binding for asset serving (`ASSETS`).
