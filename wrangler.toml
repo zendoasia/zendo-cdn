@@ -1,0 +1,11 @@
+name = "zendo-cdn"
+main = "index.js"
+compatibility_date = "2025-06-06"
+compatibility_flags = ["nodejs_compat"]
+
+[observability.logs]
+enabled = true
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
