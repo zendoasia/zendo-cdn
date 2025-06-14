@@ -1,16 +1,7 @@
 import { respond } from "./utils";
 
-const robotsTxt = `User-agent: *
-Disallow: /`;
-
 export default {
   async fetch(request, env, ctx) {
-    const url = new URL(request.url);
-    const pathname = url.pathname;
-
-    if (pathname === "/robots.txt") {
-      return respond(robotsTxt, 200);
-    }
 
     const assetResponse = await env.ASSETS.fetch(request);
 
