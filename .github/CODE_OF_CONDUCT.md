@@ -2,18 +2,18 @@
 
 ## Our Commitment (Pledge)
 
-We are dedicated to creating a welcoming, safe, and respectful environment for everyone, regardless of age, gender identity, race, ability, experience level, or background. We expect all members of this community to be as well of the same mindset. We aspire in a peaceful and calm community with nothing but a vision, and a thirst to do something wonderful for the world.
+We are dedicated to creating a welcoming, safe, and respectful environment for everyone, regardless of age, gender identity, race, ability, experience level, or background. We expect all members of this community to be as well of the same mindset. We aspire in a peaceful and calm community with nothing but a vision and a thirst to do something wonderful for the world.
 
-We pride ourself in various scopes, including but not limited to entrepreneurship activities, sports, coding projects, events, meetups, and most importantly making the world a better place for the next generation to thrive in. We wish that the world till 2030 would be a different picture from what we see today.
+We pride ourselves on various scopes, including but not limited to entrepreneurship activities, sports, coding projects, events, meetups, and most importantly, making the world a better place for the next generation to thrive in. We wish that the world till 2030 would be a different picture from what we see today.
 
 ## Why is this code here? Zendo is a commercial business?
 
-Yes, Zendo and all its assets are a part of a larger commercial business, but this code is still here for some reason. That reason is, for encouraging younger generations to create something. This source code template gives them easy and fast access to how a bigger corporation takes their online dominance. Here at Zendo, we believe everyone can be something, if they have the vision for it.
+Yes, Zendo and all its assets are a part of a larger commercial business, but this code is still here for some reason. That reason is for encouraging younger generations to create something. This source code template gives them easy and fast access to how a bigger corporation takes their online dominance. Here at Zendo, we believe everyone can be something if they have the vision for it.
 
 ## What do we expect from you?
 
-We do not ask for much, but it'd be wonderful if you could follow our mission and pledge in your day to day life.
-We love a respectful and considerate community, which listens before reacting to something, and most importantly help us build a positive impact and respect other people's space.
+We do not ask for much, but it'd be wonderful if you could follow our mission and pledge in your day-to-day life.
+We love a respectful and considerate community, which listens to before reacting to something, and most importantly, helps us build a positive impact and respect other people's space.
 
 ## Behaviors that should not be display.
 
