@@ -1,6 +1,7 @@
 import { respond } from "./utils";
 
 export default {
+  // eslint-disable-next-line no-unused-vars
   async fetch(request, env, ctx) {
     const assetResponse = await env.ASSETS.fetch(request);
 

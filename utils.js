@@ -1,3 +1,5 @@
+/* global Response */
+
 export function respond(message, code, { ...options } = {}) {
   return new Response(
     JSON.stringify({
